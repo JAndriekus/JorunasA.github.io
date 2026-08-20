@@ -152,7 +152,7 @@ params:
   hero:
     enable: true
     intro: "Hey! My name is"
-    title: "Jorunas Andriekus,"
+    title: "Jorunas Gabrielius Andriekus,"
     subtitle: "and I make games."
     content: "I am a passionate game programmer knowledgeable in C++ with experience in Unreal Engine 5 and Godot."
     image: Tattoo.png
@@ -179,7 +179,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "self.jpg"
+    image: "myself.jpg"
     # I can embed links like the following: [example org.](https://example.com) - markdown like obsidian
     content: |-
       My name is Jorunas, and I am a Lithuanian programmer with a deep-seated passion for game development.
