@@ -242,14 +242,15 @@ params:
         school:
           name: "University of East London"
           url: "https://www.uel.ac.uk"
-        date: "2023 - present"
+        date: "Sep 2023 - May 2026"
         #           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com You may insert a link like in obsidian
         content: |-
-          I am working on a dissertation which is about the topic of Procedural Environment Generation.
+          The topic of my dissertation was Procedural Environment Generation, particularly on its effects on player behaviour.
 
-          During the course, the modules taught concepts such as OOP, Design Patterns, and SOLID principles. The course placed a lot of focus on group work and collaboration with game designers and artists.
+          The core modules of the course taught key concepts such as OOP, Design Patterns, and SOLID principles. 
+          Other modules placed a lot of focus on group work and collaboration with game designers and artists.
 
-          Extracurricular Activities
+          Extracurricular Activities:
             - Course Representative for 3 years.
             - Ran a multi-year spanning Advanced Dungeons & Dragons 2nd Edition campaign for my classmates
         featuredLink:
@@ -302,7 +303,7 @@ params:
         #     url: https://example.com
 
       - title: UKIE Student Game Jam
-        content: A Vampire Survivors-like game centred around the theme of "Symmetry". 
+        content: A Vampire-Survivors-like game centred around the theme of "Symmetry". 
         image: /projects/SymmetrySurvivors.png
         featured:
           name: Itch.io
